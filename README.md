@@ -135,20 +135,6 @@ Users can dynamically filter data by:
 
 ---
 
-# 📷 Dashboard Preview
-
-## 🔹 Streamlit Dashboard
-
-assets/dashboard_preview.png
-
----
-
-## 🔹 Dash Dashboard
-
-assets/dashboard_using_dash.png
-
----
-
 # 📊 Visualizations Included
 
 ## 🔹 Fuel Efficiency Trend
