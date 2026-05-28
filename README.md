@@ -68,7 +68,7 @@ auto-mpg-dashboard/
 │   ├── dashboard_preview.png
 │   └── dashboard_using_dash.png
 │
-├── autoenv/                     # Virtual environment (not pushed to GitHub)
+├── autoenv/                     # Virtual environment (not pushed)
 │
 ├── data/
 │   ├── auto-mpg.data
@@ -88,9 +88,8 @@ auto-mpg-dashboard/
 ├── .gitignore
 ├── app.py
 ├── dash_app.py
-├── README.md
-└── requirements.txt
----
+├── requirements.txt
+└── README.md
 ---
 
 # ✨ Key Features
