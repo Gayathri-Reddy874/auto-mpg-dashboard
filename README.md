@@ -91,6 +91,7 @@ auto-mpg-dashboard/
 ├── requirements.txt
 └── README.md
 ---
+# ─────────────────────────────
 
 # ✨ Key Features
 
