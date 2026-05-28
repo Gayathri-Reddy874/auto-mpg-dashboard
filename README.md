@@ -60,6 +60,7 @@ The project analyzes:
 ---
 
 📂 Project Structure
+---
 auto-mpg-dashboard/
 │
 ├── assets/
@@ -88,6 +89,7 @@ auto-mpg-dashboard/
 ├── dash_app.py
 ├── README.md
 └── requirements.txt
+---
 
 ---
 
