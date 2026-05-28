@@ -139,13 +139,13 @@ Users can dynamically filter data by:
 
 ## 🔹 Streamlit Dashboard
 
-[Dashboard Preview Using Streamlit](assets/dashboard_preview.png).
+
 
 ---
 
 ## 🔹 Dash Dashboard
 
-[Dashboard Preview Using Dash](assets/dashboard_using_dash.png).
+
 
 ---
 
