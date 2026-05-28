@@ -1,0 +1,10 @@
+streamlit
+dash
+plotly
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+dash-bootstrap-components
