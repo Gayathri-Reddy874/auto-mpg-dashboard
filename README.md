@@ -92,22 +92,30 @@ auto-mpg-dashboard/
 └── README.md
 ```
 ---
-
-
 # ✨ Key Features
 
-✅ Data Cleaning & Preprocessing
-✅ Missing Value Handling
-✅ Feature Engineering
-✅ Interactive KPI Monitoring
-✅ Streamlit Executive Dashboard
-✅ Dash Business Analytics Dashboard
-✅ Plotly Interactive Visualizations
-✅ Correlation Analysis
-✅ Real-Time Filtering System
-✅ Modular & Scalable Architecture
-✅ Executive-Level Business Insights
-✅ Cleaned Dataset Export
+### 📊 Data & Processing
+- Data Cleaning & Preprocessing  
+- Missing Value Handling  
+- Feature Engineering  
+- Cleaned Dataset Export  
+
+### 📈 Analytics & Insights
+- Correlation Analysis  
+- Executive-Level Business Insights  
+- Real-Time Filtering System  
+
+### 📊 Dashboards
+- Streamlit Executive Dashboard  
+- Dash Business Analytics Dashboard  
+- Interactive KPI Monitoring  
+
+### 📉 Visualizations
+- Plotly Interactive Visualizations  
+- Matplotlib & Seaborn Support  
+
+### ⚙️ Architecture
+- Modular & Scalable Architecture  
 
 ---
 
