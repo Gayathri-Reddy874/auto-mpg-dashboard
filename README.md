@@ -1,6 +1,6 @@
 # 🚗 Auto MPG Analytics Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![Dash](https://img.shields.io/badge/Dash-Analytics-black)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive-orange)
