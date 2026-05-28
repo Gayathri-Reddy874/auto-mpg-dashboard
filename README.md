@@ -59,15 +59,16 @@ The project analyzes:
 
 ---
 
-📂 Project Structure
----
+## 📂 Project Structure
+
+```bash
 auto-mpg-dashboard/
 │
 ├── assets/
 │   ├── dashboard_preview.png
 │   └── dashboard_using_dash.png
 │
-├── autoenv/
+├── autoenv/                     # Virtual environment (not pushed to GitHub)
 │
 ├── data/
 │   ├── auto-mpg.data
@@ -89,7 +90,6 @@ auto-mpg-dashboard/
 ├── dash_app.py
 ├── README.md
 └── requirements.txt
----
 
 ---
 
