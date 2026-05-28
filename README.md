@@ -90,7 +90,7 @@ auto-mpg-dashboard/
 ├── dash_app.py
 ├── README.md
 └── requirements.txt
-
+---
 ---
 
 # ✨ Key Features
