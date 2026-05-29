@@ -220,7 +220,7 @@ The dataset contains vehicle specifications including:
 
 🔗 Live Demo:
 
-[LIVE DEMO]().
+[LIVE DEMO](https://auto-mpg-dashboard-hv63cqnfkfjoqctupiekde.streamlit.app/).
 
 ---
 
